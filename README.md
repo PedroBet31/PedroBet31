@@ -9,3 +9,8 @@
 🤝 I'm always open to collaborating on interesting projects and gaining real-world development experience.  
 📚 Currently focused on strengthening both **backend and frontend development** skills.
 
+### **How to Reach Me**
+
+* [LINKEDIN]([https://www.linkedin.com/in/pedro-betbeder-1828ba358/](https://img.shields.io/badge/LINKEDIN?style=social&labelColor=%23515357&color=%233254a8))
+
+
