@@ -11,7 +11,6 @@
 
 ### **How to Reach Me**
 
-<a href=»mailto:pedrobetbeder@gmail.com»>MAIL</a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-betbeder-1828ba358/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_betbeder31?igsh=bTU5bzBkcHgydDZo&utm_source=qr)  
 
