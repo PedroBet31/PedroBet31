@@ -1,13 +1,32 @@
-# **Hi\! I'm Pedro Betbeder**
+# Hi, I'm Pedro Betbeder 👋
 
-## **About Me**
+I’m a Software Analysis & Programming student passionate about software development, web technologies, and databases. I enjoy learning new tools, building useful applications, and continuing to grow as a developer.
 
-🚀 I'm passionate about software development and building useful applications.  
-🎓 I'm currently finishing my **Analista Programador** degree, almost starting my final thesis.  
-💻 During my studies I've worked with technologies like **JavaScript, C\#, SQL, Java, HTML and CSS**.  
-🧠 I enjoy learning new technologies and improving my programming skills every day.  
-🤝 I'm always open to collaborating on interesting projects and gaining real-world development experience.  
-📚 Currently focused on strengthening both **backend and frontend development** skills.
+## About me
+
+- 🎓 Currently finishing my **Analista Programador** degree and almost starting my final thesis
+- 💡 Interested in software development, problem solving, databases, and continuous learning
+- 🌱 Expanding my skills in **JavaScript, C#, SQL, Java, HTML, and CSS**
+- 🛠️ Enjoy building practical projects and strengthening both my backend and frontend skills
+- 🤝 Always open to collaborating on interesting projects and gaining real-world experience
+
+## Tech Stack
+
+- **Languages:** JavaScript, C#, Java, SQL, HTML, CSS
+- **Frameworks & Tools:** .NET, Git, GitHub, SQL Server
+- **Other interests:** Backend development, frontend development, databases, web applications, and software design
+
+## Featured Projects
+
+### Academic Projects
+Applications and exercises developed during my studies, focused on programming logic, database design, and web development.
+
+### Personal Practice
+Personal and practice projects built to improve my technical skills and apply what I learn in real scenarios.
+
+## What I'm looking for
+
+I’m looking for junior opportunities where I can continue learning, contribute to real-world projects, and grow professionally as a software developer.
 
 ## **How to Reach Me**
 
