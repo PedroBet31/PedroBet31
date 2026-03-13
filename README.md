@@ -16,17 +16,27 @@ I’m a Software Analysis & Programming student passionate about software develo
 - **Frameworks & Tools:** .NET, Git, GitHub, SQL Server
 - **Other interests:** Backend development, frontend development, databases, web applications, and software design
 
-## Featured Projects
+## Projects I've Built
 
-### Academic Projects
-Applications and exercises developed during my studies, focused on programming logic, database design, and web development.
+### Tutti Frutti Web
+Web application developed as an academic project based on the classic word game **Tutti Frutti**. Users can register, create or join game rooms, and compete in single-player or multiplayer matches by completing categories with words that begin with a randomly generated letter. The system includes automatic answer validation, partial round results, and final ranking.
 
-### Personal Practice
-Personal and practice projects built to improve my technical skills and apply what I learn in real scenarios.
+**Tech used:** Java, Spring Boot, HTML, CSS, MVC
 
-## What I'm looking for
+### FM Radio Punta App
+Cross-platform mobile application developed for a radio station in Punta del Este. The app provides **live radio streaming, weather forecasts, currency exchange rates, news, cinema releases, sponsor locations, biometric login, and user profile customization**, bringing multiple services together in one modern mobile experience.
 
-I’m looking for junior opportunities where I can continue learning, contribute to real-world projects, and grow professionally as a software developer.
+**Tech used:** .NET MAUI, C#, SQLite, XAML, REST APIs, Azure Maps
+
+### Voz del Este
+Web application built to simulate the management system of an online radio station. It features **role-based access control, dynamic permissions, CRUD modules for programs, news, sponsors and users, weekly schedule management, dashboard features, and API integrations** for real-time weather and currency data.
+
+**Tech used:** ASP.NET MVC 5, Entity Framework, SQL Server, HTML, CSS, Bootstrap, JavaScript
+
+### P&R Gestión
+Web application for managing work orders in a technical services company. It allows **client and technician registration, work order creation and tracking, status updates, comments, reports, and server-side validation**, applying core web development concepts with ASP.NET Web Forms.
+
+**Tech used:** ASP.NET Web Forms, C#, HTML, CSS
 
 ## **How to Reach Me**
 
