@@ -26,7 +26,7 @@ Web application developed as an academic project based on the classic word game 
 ### FM Radio Punta App
 Cross-platform mobile application developed for a radio station in Punta del Este. The app provides **live radio streaming, weather forecasts, currency exchange rates, news, cinema releases, sponsor locations, biometric login, and user profile customization**, bringing multiple services together in one modern mobile experience.
 
-**Tech used:** .NET MAUI, C#, SQLite, XAML, REST APIs, Azure Maps
+**Tech used:** .NET MAUI, C#, SQLite, XAML, REST APIs
 
 ### Voz del Este
 Web application built to simulate the management system of an online radio station. It features **role-based access control, dynamic permissions, CRUD modules for programs, news, sponsors and users, weekly schedule management, dashboard features, and API integrations** for real-time weather and currency data.
