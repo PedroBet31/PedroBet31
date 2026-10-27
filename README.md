@@ -39,6 +39,11 @@ Web application for managing work orders in a technical services company. It all
 
 **Tech used:** ASP.NET Web Forms, C#, HTML, CSS
 
+## My Goal
+
+I'm motivated to begin my professional career in software development, apply the knowledge I've gained throughout my studies, and continue learning from real-world challenges.
+I'm always interested in opportunities that allow me to grow as a developer, collaborate with others, and contribute to meaningful software projects.
+
 ## **How to Reach Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-betbeder-1828ba358/)  
