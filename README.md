@@ -1,14 +1,15 @@
 # Hi, I'm Pedro Betbeder 👋
 
-I’m a Software Analysis & Programming student passionate about software development, web technologies, and databases. I enjoy learning new tools, building useful applications, and continuing to grow as a developer.
+I'm a **Software Analyst & Programmer (Analista Programador)**, graduated from CEI Maldonado, with a degree awarded by Universidad CLAEH.
+I'm passionate about software development, web technologies, and databases. I enjoy building practical applications, exploring new technologies, and continuously improving my skills. 
 
 ## About me
 
-- 🎓 Currently finishing my **Analista Programador** degree and almost starting my final thesis
-- 💡 Interested in software development, problem solving, databases, and continuous learning
-- 🌱 Expanding my skills in **JavaScript, C#, SQL, Java, HTML, and CSS**
-- 🛠️ Enjoy building practical projects and strengthening both my backend and frontend skills
-- 🤝 Always open to collaborating on interesting projects and gaining real-world experience
+- 🎓 Graduated as an **Analista Programador** from CEI Maldonado – Universidad CLAEH.
+- 💡 Interested in software development, problem-solving, databases, and continuous learning.
+- 🌱 Experienced with different programming languages, frameworks, and development tools through academic and personal projects.
+- 🛠️ Enjoy developing practical solutions and strengthening both my backend and frontend skills.
+- 🤝 Open to collaborating on projects, learning from other developers, and gaining professional experience.
 
 ## Tech Stack
 
