@@ -9,13 +9,14 @@ I'm passionate about software development, web technologies, and databases. I en
 - 💡 Interested in software development, problem-solving, databases, and continuous learning.
 - 🌱 Experienced with different programming languages, frameworks, and development tools through academic and personal projects.
 - 🛠️ Enjoy developing practical solutions and strengthening both my backend and frontend skills.
+- 🤖 Interested in Artificial Intelligence, exploring how AI can enhance software development, improve workflows, and drive innovation.
 - 🤝 Open to collaborating on projects, learning from other developers, and gaining professional experience.
 
 ## Tech Stack
 
-- **Languages:** JavaScript, C#, Java, SQL, HTML, CSS
-- **Frameworks & Tools:** .NET, Git, GitHub, SQL Server
-- **Other interests:** Backend development, frontend development, databases, web applications, and software design
+- **Languages:** JavaScript, C#, Java, SQL, HTML, CSS, XAML
+- **Frameworks & Tools:** .NET, ASP.NET Core, ASP.NET MVC, .NET MAUI, Spring Boot, Entity Framework, SQL Server, Git, GitHub, REST APIs
+- **Other interests:** Backend development, frontend development, databases, web applications, mobile applications, software design, and Artificial Intelligence
 
 ## Projects I've Built
 
@@ -42,7 +43,7 @@ Web application for managing work orders in a technical services company. It all
 ## My Goal
 
 I'm motivated to begin my professional career in software development, apply the knowledge I've gained throughout my studies, and continue learning from real-world challenges.
-I'm always interested in opportunities that allow me to grow as a developer, collaborate with others, and contribute to meaningful software projects.
+I'm always interested in opportunities that allow me to grow as a developer, collaborate with others, explore emerging technologies, and contribute to meaningful software projects.
 
 ## **How to Reach Me**
 
